@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springboot_elb_two
+server:
+  port: 80
