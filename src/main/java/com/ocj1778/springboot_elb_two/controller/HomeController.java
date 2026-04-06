@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
     @GetMapping("/")
     public String main() {
-        return "첫번째 서버의 메인페이지";
+        return "두번째 서버의 메인페이지";
     }
 }
